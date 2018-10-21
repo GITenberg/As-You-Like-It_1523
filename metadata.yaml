@@ -1,5 +1,5 @@
 _repo: As-You-Like-It_1523
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Pastoral drama'
 - !lcsh 'Comedies'
+- GITenberg
 title: As You Like It
 url: http://www.gutenberg.org/ebooks/1523
